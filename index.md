@@ -4,3 +4,6 @@
 ``` java
 String newString = "Hello, World!";
 ```
+- [ ] finish cyberpunk 
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
